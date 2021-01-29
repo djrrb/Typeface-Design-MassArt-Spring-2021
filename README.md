@@ -1,3 +1,5 @@
+![header image](assets/header.png)
+
 # Typeface Design
 
 * CDGD-353-01.21/SP
