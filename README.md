@@ -41,7 +41,7 @@ The final typeface project is largely self-directed, and will be different for e
 * [InDesign](https://www.adobe.com/products/indesign.html) (or similar), for layout and proofing
 * [DrawBot](https://drawbot.com), for layout and proofing 
 * Pen, pencil, and paper
-* Laser printer
+* Laser printer, if possible
 
 ## Itinerary
 
