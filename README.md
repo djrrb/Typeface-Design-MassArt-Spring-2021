@@ -1,4 +1,4 @@
-![header image](assets/header.png)
+![Typeface Design](assets/typeface-design.png)
 
 # Typeface Design
 
