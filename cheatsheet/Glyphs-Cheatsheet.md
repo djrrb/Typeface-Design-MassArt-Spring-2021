@@ -91,5 +91,9 @@ You can also use key commands to change spacing in text mode (`T`):
 * `cmd`+`shift`+`←`/`→`: Adjust right sidebearing +/- 10 units
 * `ctrl`+`shift`+`←`/`→`: Adjust left sidebearing +/- 10 units
 
-Or click in left margin or right margin fields in `Glyph Info` box and use `↑` and `↓` to augment (`Shift` in multiples of 10).
+Or click in left margin or right margin fields in `Glyph Info` box and use `↑` and `↓` to augment (`Shift` in multiples of 10). Besides numbers, you can also enter *metrics keys* that reference other spacing:
+
+* `=|`: Reference the spacing of the opposite side, to make the spacing symmetrical
+* `=glyphName`: Reference the spacing of another glyph, where `glyphName` is the name of the glyph to reference
+* `=glyphName@20`: Reference the spacing of another glyph at a certain height
 
