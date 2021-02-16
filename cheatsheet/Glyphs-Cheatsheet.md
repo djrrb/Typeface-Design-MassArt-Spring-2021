@@ -79,12 +79,17 @@ With points on these extremes, most of your handles will be either totally verti
 
 Remember to **space as you draw**! Don’t wait to update sidebearings later. 
 
-  Drawing within the context of control characters like `H`/`O` and `n`/`o` in a string like `HHXHOHOXOO` will help you consider how the shape affects color and rhythm. 
-
+  Drawing within the context of control characters like `H`/`O` and `n`/`o` in a string will help you consider how the shape affects color and rhythm. 
+  
+* Sample uppercase spacing string (spacing `X`): `HHXHOHOXOO`
+* Sample lowercase spacing string for x: `nnxnonoxoo`
+  
 <img src="space-as-you-draw.png" style="margin-left: 2rem; max-width: 40rem; max-height: 15rem; border: 1px solid #ccc" />
 
 You can also use key commands to change spacing in text mode (`T`):
 
 * `cmd`+`shift`+`←`/`→`: Adjust right sidebearing +/- 10 units
 * `ctrl`+`shift`+`←`/`→`: Adjust left sidebearing +/- 10 units
+
+Or click in left margin or right margin fields in `Glyph Info` box and use `↑` and `↓` to augment (`Shift` in multiples of 10).
 
